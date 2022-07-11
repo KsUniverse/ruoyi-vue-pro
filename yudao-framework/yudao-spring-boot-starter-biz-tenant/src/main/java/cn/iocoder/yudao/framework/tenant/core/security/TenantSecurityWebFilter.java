@@ -30,7 +30,7 @@ import java.util.Objects;
  *
  * 校验用户访问的租户，是否是其所在的租户，
  *
- * @author 芋道源码
+ *
  */
 @Slf4j
 public class TenantSecurityWebFilter extends ApiRequestFilter {

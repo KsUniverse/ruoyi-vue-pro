@@ -15,7 +15,7 @@ import org.mapstruct.factory.Mappers;
 /**
  * 用户组 Convert
  *
- * @author 芋道源码
+ * 
  */
 @Mapper
 public interface BpmUserGroupConvert {

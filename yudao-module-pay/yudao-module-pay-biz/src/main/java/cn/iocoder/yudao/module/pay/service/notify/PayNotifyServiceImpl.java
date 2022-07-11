@@ -39,7 +39,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * 支付通知 Core Service 实现类
  *
- * @author 芋道源码
+ *
  */
 @Service
 @Valid

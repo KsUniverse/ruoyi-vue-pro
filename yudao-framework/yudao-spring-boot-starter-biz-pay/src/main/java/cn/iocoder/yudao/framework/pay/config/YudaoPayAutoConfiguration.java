@@ -9,7 +9,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * 支付配置类
  *
- * @author 芋道源码
+ *
  */
 @Configuration
 @EnableConfigurationProperties(PayProperties.class)

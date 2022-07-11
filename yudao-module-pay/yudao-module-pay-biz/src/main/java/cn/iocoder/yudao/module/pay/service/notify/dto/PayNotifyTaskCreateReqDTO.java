@@ -10,7 +10,7 @@ import javax.validation.constraints.NotNull;
 /**
  * 支付通知创建 DTO
  *
- * @author 芋道源码
+ *
  */
 @Data
 @Builder

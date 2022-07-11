@@ -15,7 +15,7 @@ import javax.annotation.Resource;
 /**
  * 监听 {@link ProcessInstance} 的开始与完成，创建与更新对应的 {@link BpmProcessInstanceExtDO} 记录
  *
- * @author 芋道源码
+ *
  */
 @Component
 public class BpmProcessInstanceEventListener<T extends RuntimeEvent<?, ?>>

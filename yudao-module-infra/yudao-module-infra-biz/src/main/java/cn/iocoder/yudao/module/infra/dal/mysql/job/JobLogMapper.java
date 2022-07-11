@@ -13,7 +13,7 @@ import java.util.List;
 /**
  * 任务日志 Mapper
  *
- * @author 芋道源码
+ * 
  */
 @Mapper
 public interface JobLogMapper extends BaseMapperX<JobLogDO> {

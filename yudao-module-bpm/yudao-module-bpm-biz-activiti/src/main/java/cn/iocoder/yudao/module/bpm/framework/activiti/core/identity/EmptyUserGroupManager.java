@@ -10,7 +10,7 @@ import java.util.List;
  * 原因是，我们使用了自己实现的任务分配规则，所以不需要 Activiti。
  * 如果不去禁用，会存在一些场景下，会去查询用户所在的用户组，导致报错。
  *
- * @author 芋道源码
+ *
  */
 public class EmptyUserGroupManager implements UserGroupManager {
 

@@ -7,7 +7,7 @@ import java.util.Date;
 /**
  * 错误码的 Response DTO
  *
- * @author 芋道源码
+ *
  */
 @Data
 public class ErrorCodeRespDTO {

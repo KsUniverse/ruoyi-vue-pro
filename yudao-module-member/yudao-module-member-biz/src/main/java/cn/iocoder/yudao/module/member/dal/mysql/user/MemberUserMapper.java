@@ -7,7 +7,7 @@ import org.apache.ibatis.annotations.Mapper;
 /**
  * 会员 User Mapper
  *
- * @author 芋道源码
+ * 
  */
 @Mapper
 public interface MemberUserMapper extends BaseMapperX<MemberUserDO> {

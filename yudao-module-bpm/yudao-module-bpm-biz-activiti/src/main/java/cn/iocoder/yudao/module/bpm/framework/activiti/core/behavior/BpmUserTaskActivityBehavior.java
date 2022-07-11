@@ -41,7 +41,7 @@ import static cn.iocoder.yudao.module.bpm.enums.ErrorCodeConstants.TASK_CREATE_F
  * 第二步，根据分配规则，计算出分配任务的候选人。如果找不到，则直接报业务异常，不继续执行后续的流程；
  * 第三步，随机选择一个候选人，则选择作为 assignee 负责人。
  *
- * @author 芋道源码
+ *
  */
 @Slf4j
 public class BpmUserTaskActivityBehavior extends UserTaskActivityBehavior {

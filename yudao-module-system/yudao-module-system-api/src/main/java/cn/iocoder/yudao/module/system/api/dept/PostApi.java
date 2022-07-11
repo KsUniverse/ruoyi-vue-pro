@@ -5,7 +5,7 @@ import java.util.Collection;
 /**
  * 岗位 API 接口
  *
- * @author 芋道源码
+ *
  */
 public interface PostApi {
 

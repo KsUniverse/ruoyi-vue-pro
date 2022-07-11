@@ -13,7 +13,7 @@ import java.io.IOException;
 /**
  * Activiti Web 过滤器，将 userId 设置到 {@link org.activiti.engine.impl.identity.Authentication} 中
  *
- * @author 芋道源码
+ *
  */
 public class ActivitiWebFilter extends OncePerRequestFilter {
 

@@ -18,7 +18,7 @@ import javax.annotation.Resource;
  * 监听 {@link TaskEntity} 相关的事件，设置相关属性。
  * 目的：解决 {@link TaskEventListener} 无法解决的场景
  *
- * @author 芋道源码
+ *
  */
 @Component
 public class BpmTackActivitiEventListener implements ActivitiEventListener {

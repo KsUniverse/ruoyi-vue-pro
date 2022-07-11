@@ -34,7 +34,7 @@ import static cn.iocoder.yudao.framework.pay.core.client.impl.wx.WXCodeMapping.M
 /**
  * 微信支付（公众号）的 PayClient 实现类
  *
- * @author 芋道源码
+ *
  */
 @Slf4j
 public class WXPubPayClient extends AbstractPayClient<WXPayClientConfig> {

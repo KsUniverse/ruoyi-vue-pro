@@ -8,7 +8,7 @@ import java.util.Date;
 /**
  * API 访问日志
  *
- * @author 芋道源码
+ * 
  */
 @Data
 public class ApiAccessLogCreateReqDTO {

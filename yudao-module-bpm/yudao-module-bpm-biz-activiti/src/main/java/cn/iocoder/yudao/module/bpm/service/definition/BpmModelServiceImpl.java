@@ -42,7 +42,7 @@ import static cn.iocoder.yudao.module.bpm.enums.ErrorCodeConstants.*;
  * 主要进行 Activiti {@link Model} 的维护
  *
  * @author yunlongn
- * @author 芋道源码
+ *
  */
 @Service
 @Validated

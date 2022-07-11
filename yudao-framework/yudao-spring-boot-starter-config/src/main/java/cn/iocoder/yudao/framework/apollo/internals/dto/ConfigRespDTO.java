@@ -7,7 +7,7 @@ import java.util.Date;
 /**
  * 配置 Response DTO
  *
- * @author 芋道源码
+ *
  */
 @Data
 public class ConfigRespDTO {

@@ -26,7 +26,7 @@ import static cn.iocoder.yudao.module.bpm.enums.ErrorCodeConstants.*;
 /**
  * BPM 活动实例 Service 实现类
  *
- * @author 芋道源码
+ *
  */
 @Service
 @Slf4j

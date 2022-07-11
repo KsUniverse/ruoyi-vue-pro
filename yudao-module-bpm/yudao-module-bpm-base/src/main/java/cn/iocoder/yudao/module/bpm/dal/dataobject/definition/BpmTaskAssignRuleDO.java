@@ -19,7 +19,7 @@ import java.util.Set;
  * 1. 默认情况下，{@link #processDefinitionId} 为 {@link #PROCESS_DEFINITION_ID_NULL} 值，表示贵改则与流程模型关联
  * 2. 在流程模型部署后，会将他的所有规则记录，复制出一份新部署出来的流程定义，通过设置 {@link #processDefinitionId} 为新的流程定义的编号进行关联
  *
- * @author 芋道源码
+ *
  */
 @TableName(value = "bpm_task_assign_rule", autoResultMap = true)
 @KeySequence("bpm_task_assign_rule_seq") // 用于 Oracle、PostgreSQL、Kingbase、DB2、H2 数据库的主键自增。如果是 MySQL 等数据库，可不写。

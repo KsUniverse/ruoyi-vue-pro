@@ -16,7 +16,7 @@ import java.util.Date;
  * Bpm 流程任务的拓展表
  * 主要解决 Activiti Task 和 HistoricTaskInstance 不支持拓展字段，所以新建拓展表
  *
- * @author 芋道源码
+ *
  */
 @TableName(value = "bpm_task_ext", autoResultMap = true)
 @KeySequence("bpm_task_ext_seq") // 用于 Oracle、PostgreSQL、Kingbase、DB2、H2 数据库的主键自增。如果是 MySQL 等数据库，可不写。

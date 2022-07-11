@@ -21,7 +21,7 @@ import java.util.List;
 /**
  * 自定义的 Spring Security 配置适配器实现
  *
- * @author 芋道源码
+ *
  */
 @Configuration
 @EnableGlobalMethodSecurity(prePostEnabled = true, securedEnabled = true)
