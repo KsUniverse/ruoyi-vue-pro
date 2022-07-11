@@ -5,7 +5,7 @@ import cn.iocoder.yudao.module.member.api.user.dto.UserRespDTO;
 /**
  * 会员用户的 API 接口
  *
- * @author 芋道源码
+ *
  */
 public interface MemberUserApi {
 

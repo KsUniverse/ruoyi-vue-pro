@@ -32,7 +32,7 @@ import java.util.Properties;
 /**
  * 消息队列配置类
  *
- * @author 芋道源码
+ * 
  */
 @Configuration
 @AutoConfigureAfter(YudaoRedisAutoConfiguration.class)

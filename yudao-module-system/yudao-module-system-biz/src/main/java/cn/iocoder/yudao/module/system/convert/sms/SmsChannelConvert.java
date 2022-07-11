@@ -15,7 +15,7 @@ import java.util.List;
 /**
  * 短信渠道 Convert
  *
- * @author 芋道源码
+ *
  */
 @Mapper
 public interface SmsChannelConvert {

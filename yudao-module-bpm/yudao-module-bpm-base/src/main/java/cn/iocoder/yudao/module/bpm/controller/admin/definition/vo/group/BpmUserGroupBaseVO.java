@@ -12,11 +12,11 @@ import javax.validation.constraints.*;
 @Data
 public class BpmUserGroupBaseVO {
 
-    @ApiModelProperty(value = "组名", required = true, example = "芋道")
+    @ApiModelProperty(value = "组名", required = true, example = "wesson")
     @NotNull(message = "组名不能为空")
     private String name;
 
-    @ApiModelProperty(value = "描述", required = true, example = "芋道源码")
+    @ApiModelProperty(value = "描述", required = true, example = "wesson")
     @NotNull(message = "描述不能为空")
     private String description;
 

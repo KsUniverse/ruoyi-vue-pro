@@ -148,7 +148,7 @@ export default {
     },
     // 上传成功回调
     handleUploadSuccess(res) {
-      // edit by 芋道源码
+      // edit by wesson
       this.uploadList.push({ name: res.data, url: res.data });
       if (this.uploadList.length === this.number) {
         this.fileList = this.fileList.concat(this.uploadList);

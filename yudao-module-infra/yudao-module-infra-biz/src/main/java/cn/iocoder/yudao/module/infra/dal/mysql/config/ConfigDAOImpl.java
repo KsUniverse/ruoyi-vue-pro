@@ -12,7 +12,7 @@ import java.util.List;
 /**
  * ConfigDAOImpl 实现类
  *
- * @author 芋道源码
+ *
  */
 public class ConfigDAOImpl implements ConfigFrameworkDAO {
 

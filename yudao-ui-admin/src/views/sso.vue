@@ -9,7 +9,7 @@
       <div class="field">
         <!-- [移动端]标题 -->
         <h2 class="mobile-title">
-          <h3 class="title">芋道后台管理系统</h3>
+          <h3 class="title">wesson后台管理系统</h3>
         </h2>
 
         <!-- 表单 -->
@@ -67,7 +67,7 @@ export default {
     return {
       tenantEnable: true,
       loginForm: {
-        tenantName: "芋道源码",
+        tenantName: "wesson",
         scopes: [], // 已选中的 scope 数组
       },
       params: { // URL 上的 client_id、scope 等参数

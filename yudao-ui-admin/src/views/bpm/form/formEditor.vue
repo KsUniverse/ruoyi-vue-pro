@@ -276,7 +276,7 @@ export default {
     }
   },
   mounted() {
-    // 【add by 芋道源码】不读缓存
+    // 【add by wesson】不读缓存
     // if (Array.isArray(drawingListInDB) && drawingListInDB.length > 0) {
     //   this.drawingList = drawingListInDB
     // } else {

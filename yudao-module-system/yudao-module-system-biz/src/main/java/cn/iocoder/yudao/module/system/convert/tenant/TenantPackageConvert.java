@@ -15,7 +15,7 @@ import java.util.List;
 /**
  * 租户套餐 Convert
  *
- * @author 芋道源码
+ *
  */
 @Mapper
 public interface TenantPackageConvert {

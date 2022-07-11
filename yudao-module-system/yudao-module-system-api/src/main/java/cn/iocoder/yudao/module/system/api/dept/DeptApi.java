@@ -11,7 +11,7 @@ import java.util.Set;
 /**
  * 部门 API 接口
  *
- * @author 芋道源码
+ *
  */
 public interface DeptApi {
 

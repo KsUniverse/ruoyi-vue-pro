@@ -5,7 +5,7 @@ import cn.iocoder.yudao.framework.tenant.core.context.TenantContextHolder;
 /**
  * 多租户 Util
  *
- * @author 芋道源码
+ *
  */
 public class TenantUtils {
 

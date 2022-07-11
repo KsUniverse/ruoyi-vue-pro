@@ -11,7 +11,7 @@ import static cn.iocoder.yudao.module.system.dal.redis.RedisKeyConstants.CAPTCHA
 /**
  * 验证码的 Redis DAO
  *
- * @author 芋道源码
+ *
  */
 @Repository
 public class CaptchaRedisDAO {

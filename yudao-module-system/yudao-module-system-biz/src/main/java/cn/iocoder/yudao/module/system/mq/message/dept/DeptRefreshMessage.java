@@ -7,7 +7,7 @@ import lombok.EqualsAndHashCode;
 /**
  * 部门数据刷新 Message
  *
- * @author 芋道源码
+ *
  */
 @Data
 @EqualsAndHashCode(callSuper = true)

@@ -9,7 +9,7 @@ import java.io.InputStream;
 /**
  * 会员用户 Service 接口
  *
- * @author 芋道源码
+ *
  */
 public interface MemberUserService {
 

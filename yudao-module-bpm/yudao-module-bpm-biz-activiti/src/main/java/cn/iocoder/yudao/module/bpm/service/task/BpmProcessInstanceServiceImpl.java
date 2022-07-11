@@ -50,7 +50,7 @@ import static cn.iocoder.yudao.module.bpm.enums.ErrorCodeConstants.*;
  *     1.https://my.oschina.net/843294669/blog/719024
  * 简单来说，前者 = 历史 + 运行中的流程实例，后者仅是运行中的流程实例
  *
- * @author 芋道源码
+ *
  */
 @Service
 @Validated

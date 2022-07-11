@@ -19,7 +19,7 @@ import java.util.Map;
  * Bpm 流程实例的拓展表
  * 主要解决 Activiti ProcessInstance 和 HistoricProcessInstance 不支持拓展字段，所以新建拓展表
  *
- * @author 芋道源码
+ * 
  */
 @TableName(value = "bpm_process_instance_ext", autoResultMap = true)
 @KeySequence("bpm_process_instance_ext_seq") // 用于 Oracle、PostgreSQL、Kingbase、DB2、H2 数据库的主键自增。如果是 MySQL 等数据库，可不写。

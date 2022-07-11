@@ -15,7 +15,7 @@ import java.io.File;
 /**
  * Ftp 文件客户端
  *
- * @author 芋道源码
+ *
  */
 public class FtpFileClient extends AbstractFileClient<FtpFileClientConfig> {
 

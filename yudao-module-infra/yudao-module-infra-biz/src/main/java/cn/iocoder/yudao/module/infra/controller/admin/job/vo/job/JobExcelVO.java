@@ -11,7 +11,7 @@ import java.util.Date;
 /**
  * 定时任务 Excel VO
  *
- * @author 芋道源码
+ *
  */
 @Data
 public class JobExcelVO {

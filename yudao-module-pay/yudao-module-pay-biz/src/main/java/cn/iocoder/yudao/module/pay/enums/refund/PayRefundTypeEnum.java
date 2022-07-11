@@ -7,7 +7,7 @@ import lombok.Getter;
 /**
  * 支付订单的退款状态枚举
  *
- * @author 芋道源码
+ *
  */
 @Getter
 @AllArgsConstructor

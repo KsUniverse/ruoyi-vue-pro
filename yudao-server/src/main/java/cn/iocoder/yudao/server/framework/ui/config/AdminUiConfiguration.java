@@ -9,7 +9,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 /**
  * yudao-admin-ui 的配置类
  *
- * @author 芋道源码
+ * 
  */
 @Configuration
 public class AdminUiConfiguration implements WebMvcConfigurer {

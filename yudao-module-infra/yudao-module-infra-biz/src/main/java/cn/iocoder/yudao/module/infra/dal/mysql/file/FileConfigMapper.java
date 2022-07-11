@@ -13,7 +13,7 @@ import java.util.Date;
 /**
  * 文件配置 Mapper
  *
- * @author 芋道源码
+ *
  */
 @Mapper
 public interface FileConfigMapper extends BaseMapperX<FileConfigDO> {

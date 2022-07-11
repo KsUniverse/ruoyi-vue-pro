@@ -10,7 +10,7 @@ import java.util.Date;
 /**
  * 支付通知 Response DTO
  *
- * @author 芋道源码
+ *
  */
 @Data
 @Builder
